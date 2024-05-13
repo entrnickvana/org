@@ -1,0 +1,137 @@
+#+ TITLE: Rental Property Planning
+
+- Headings
+- Tags
+- Lists
+
+* Kaysville Duplex [0/4]  [0%]
+** TODO West Renovation [0/7] [0%]
+*** TODO Max Budget/Schedule [0/2] [0%]
+   1. [ ] Payback Analysis
+   2. [ ] Time Cost Analysis
+
+*** TODO Bathrooom [0/7] [0%]
+   1. [ ] Peel floor back
+   2. [ ] Talk to alya about insert, talk to Lelecheur
+   3. [ ] Pick Tile
+   4. [ ] Remove Tub
+   5. [ ] Remove Vanity
+   6. [ ] Install Fan? 
+   7. [ ] Remove Toilet
+
+*** TODO Investigate floor issue in bathroom [0/3] [0%]
+   1. [ ] Peel back flooring
+     
+*** TODO Washer Dryer Conversion [0/4] [0%]
+   1. [ ] Find new washer dryer combo
+   2. [ ] borrow truck
+   3. [ ] Ask for assistance
+   4. [ ] pickup
+     
+*** TODO Flooring [0/4] [0%]
+   1. [ ] Remove some carpet
+   2. [ ] Verify that wood floor cannot be used
+   3. [ ] Find cheap carpet for bedrooms
+   4. [ ] 
+     
+*** TODO Baseboards [0/4] [0%] SCHEDULED: <2024-05-14 Tue>
+   1. [ ] Remove old 
+   2. [ ] Measure
+   3. [ ] Price
+   4. [ ] Borrow Truck and purchase
+     
+*** TODO Paint [0/3] [0%]
+
+*** TODO Countertop [0/3] [0%]
+     
+
+**** Cost Table
+
+
+   | Category   | Subcategory       | Own Used New | Unit Type | Units    | Cost Per Unit | Paid | Total Cost | Remaining Cost |
+   |            |                   |              |           |          |               |      |            |                |
+   |------------+-------------------+--------------+-----------+----------+---------------+------+------------+----------------|
+   | HVAC       |                   |              |           |          |               |      |            |                |
+   |            | Furnace / AC      |              |         1 | 7,000.00 | 7,000.00      |    1 |            |                |
+   |------------+-------------------+--------------+-----------+----------+---------------+------+------------+----------------|
+   | Flooringp  |                   |              |           |          |               |      |            |                |
+   |            | Carpet            |              |           |          |               |      |            |                |
+   |            | Refinish          |              |           |          |               |      |            |                |
+   |------------+-------------------+--------------+-----------+----------+---------------+------+------------+----------------|
+   | Bathroom   |                   |              |           |          |               |      |            |                |
+   |            | Tile              |              |           |          |               |      |            |                |
+   |            | Tub               |              |           |          |               |      |            |                |
+   |            | Vanity            |              |           |          |               |      |            |                |
+   |            | Fan?              |              |           |          |               |      |            |                |
+   |------------+-------------------+--------------+-----------+----------+---------------+------+------------+----------------|
+   | Paint      |                   |              |           |          |               |      |            |                |
+   |            | Brushes           |              |           |          |               |      |            |                |
+   |            | Drop Clothes      | Own          |           |          |               |      |            |                |
+   |------------+-------------------+--------------+-----------+----------+---------------+------+------------+----------------|
+   | Kitchen    |                   |              |           |          |               |      |            |                |
+   |            | Fridge            |              |           |          |               |      |            |                |
+   |            | Oven              |              |           |          |               |      |            |                |
+   |            | Counter Tops      |              |           |          |               |      |            |                |
+   |            |                   |              |           |          |               |      |            |                |
+   |------------+-------------------+--------------+-----------+----------+---------------+------+------------+----------------|
+   | Conversion |                   |              |           |          |               |      |            |                |
+   |            | Install new Drain |              |           | 1        | 800.00        |    0 |            |                |
+   |------------+-------------------+--------------+-----------+----------+---------------+------+------------+----------------|
+   | Lighting   |                   |              |           |          |               |      |            |                |
+   |            |                   |              |           |          |               |      |            |                |
+
+
+**** May Table
+
+Nick
+| MON 13        | TUE 14            | WED 15             | THU 16                       | FRI 17            | SAT 18           | SUN 19 | MON 20             | TUE 21    | WED 22      | THU 23  | FRI 24 | SAT 25         | SUN 26 | MON 27 | TUE 28 | WED 29 | THU 30 | FRI 31 |
+|---------------+-------------------+--------------------+------------------------------+-------------------+------------------+--------+--------------------+-----------+-------------+---------+--------+----------------+--------+--------+--------+--------+--------+--------|
+| Mover Garbage | Peel Floor        | Remove Vanity      | Pick Tile                    | Buy Baseboards    | Remove Tub       |        | Screw Backer Board | Work Off? | Tile Drying | New Tub |        | Install Vanity |        |        |        |        |        |        |
+|               | Remove Baseboards | Measure Baseboards | Investigagte Floor Treatment | Pick Carpet       | Repair Floor     |        |                    | Lay Tile? |             |         |        | Install Toilet |        |        |        |        |        |        |
+|               |                   | Investigate Floor  |                              | Pick Floor Finish | Lay Backer Board |        |                    |           |             |         |        |                |        |        |        |        |        |        |
+|               |                   |                    |                              | Remove Toilet     |                  |        |                    |           |             |         |        |                |        |        |        |        |        |        |
+|               |                   |                    |                              |                   |                  |        |                    |           |             |         |        |                |        |        |        |        |        |        |
+
+
+
+Alya
+| MON 13        | TUE 14            | WED 15             | THU 16                       | FRI 17            | SAT 18           | SUN 19 | MON 20             | TUE 21    | WED 22 | THU 23   | FRI 24 | SAT 25 | SUN 26 | MON 27 | TUE 28 | WED 29 | THU 30 | FRI 31 |   |
+|---------------+-------------------+--------------------+------------------------------+-------------------+------------------+--------+--------------------+-----------+--------+----------+--------+--------+--------+--------+--------+--------+--------+--------+---|
+|               |                   |                    |                              |                   |                  |        |                    |           |        |          |        |        |        |        |        |        |        |        |   |
+
+
+**** June Table
+
+| SAT 1 | SUN 2 | MON 3 | TUE 4 | WED 5 | THU 6 | FRI 7 | SAT 8 | SUN 9 | MON 10 | TUE 11 | WED 12 | THU 13 | FRI 14 | SAT 15 | SUN 16 | MON 17 | TUE 18 | WED 19 | THU 20 | FRI 21 | SAT 22 | SUN 23 | MON 24 | TUE 25 | WED 26 | THU 27 | FRI 28 | SAT 29 | SUN 30 |
+|-------+-------+-------+-------+-------+-------+-------+-------+-------+--------+--------+--------+--------+--------+--------+--------+--------+--------+--------+--------+--------+--------+--------+--------+--------+--------+--------+--------+--------+--------|
+|       |       |       |       |       |       |       |       |       |        |        |        |        |        |        |        |        |        |        |        |        |        |        |        |        |        |        |        |        |        |
+|       |       |       |       |       |       |       |       |       |        |        |        |        |        |        |        |        |        |        |        |        |        |        |        |        |        |        |        |        |        |
+|       |       |       |       |       |       |       |       |       |        |        |        |        |        |        |        |        |        |        |        |        |        |        |        |        |        |        |        |        |        |
+
+
+
+
+** TODO Power Wash
+** TODO Sprinklers Check
+** TODO East Vacancy
+
+
+* Bountiful [0/1] [0%] 
+** TODO Long Term Budget
+
+
+* Lists
+
+- Progress indicators [0/4] [0%] 
+  - [ ] Take out the garbage
+  - [ ] Thrash my gash
+  - [ ] Throw a party
+
+  
+
+* TODO TESTING                                                       :ATTACH:
+:PROPERTIES:
+:ID:       482a26a7-39cc-42cc-aa47-a52cb769b11f
+:END:
+
+\p
